@@ -1,4 +1,4 @@
-<div>: <div style="text-align: center;"><img width="500" height="281" alt="5a93d9d30dfbe_default_big" src="https://github.com/user-attachments/assets/a9164378-71fc-48fa-ad3d-c23d6482143c" /></div>
+
 
 
 Помощник в рыбалке.
